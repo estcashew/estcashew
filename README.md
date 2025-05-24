@@ -5,10 +5,10 @@
 * 音楽を聴くことと本を読むことが好きです
 
 ## 💻 書けるもの
-[![Programming Languages](https://skillicons.dev/icons?i=html,css,ts)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=html,css,go)](https://skillicons.dev)
 
 ## 🫥 書きたいもの・使いたいもの
-[![Programming Languages](https://skillicons.dev/icons?i=rust,go,php,cpp,tauri,next)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=rust,ts,php,cpp,tauri,next)](https://skillicons.dev)
  <hr>
  
 <div align="center">
