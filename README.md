@@ -9,7 +9,6 @@
 
 ## 🫥 書きたいもの・使いたいもの
 [![Programming Languages](https://skillicons.dev/icons?i=rust,ts,php,cpp,tauri,next)](https://skillicons.dev)
- <hr>
 
 ## 運用サーバー
 #### 東京リージョン ( powered by [@mousei0n](https://github.com/mousei0n) )
@@ -17,7 +16,9 @@
 - 添付ファイルストレージ
 - ポートフォリオサイトの運用
 <img src="https://spaco.xsrv.jp/storage/github/githubservers.svg" width="750px">
- 
+
+  <hr>
+  
 <div align="center">
   
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mousei0n&theme=tokyonight)
