@@ -11,7 +11,7 @@
 [![Programming Languages](https://skillicons.dev/icons?i=rust,ts,php,cpp,tauri,next)](https://skillicons.dev)
 
 ## 運用サーバー
-#### 東京リージョン ( powered by [@mousei0n](https://github.com/mousei0n) )
+#### 東京リージョン - Tokyo Region
 - Webアプリの運用
 - 添付ファイルストレージ
 - ポートフォリオサイトの運用
