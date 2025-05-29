@@ -10,13 +10,6 @@
 ## 🫥 書きたいもの・使いたいもの
 [![Programming Languages](https://skillicons.dev/icons?i=rust,ts,php,cpp,tauri,next)](https://skillicons.dev)
 
-## 運用サーバー
-#### 東京リージョン - Tokyo Region
-- Webアプリの運用
-- 添付ファイルストレージ
-- ポートフォリオサイトの運用
-<img src="https://spaco.xsrv.jp/storage/github/githubservers.svg" width="750px">
-
   <hr>
   
 <div align="center">
