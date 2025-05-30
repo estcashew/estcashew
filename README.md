@@ -10,10 +10,7 @@
 ## 🫥 書きたいもの・使いたいもの
 [![Programming Languages](https://skillicons.dev/icons?i=rust,ts,php,cpp,tauri,next)](https://skillicons.dev)
 
-  <hr>
-  
-<div align="center">
+## 🔥 データ
+[![GitHub Streak](https://streak-stats.demolab.com?user=mousei0n&theme=tokyonight)](https://git.io/streak-stats)
   
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mousei0n&theme=tokyonight)
- 
-</div>
