@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=mousei0n)
 
 ## 😶 About Me
-- 🕶 I'm **ぺとらる** (Petrar, [pe̞to̞ɾaɾɯ] ), a Japanese Student 🇯🇵
+- 🕶 I'm **ぺとらる** (Petrar, [pe̞to̞ɾaɾɯ] ), a Japanese Student
 - ❤ I love listening to music and reading books
 
 ## 💻 Languages I can write
