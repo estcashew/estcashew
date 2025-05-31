@@ -1,4 +1,4 @@
-[Guthub Viewers](https://komarev.com/ghpvc/?username=mousei0n)
+![](https://komarev.com/ghpvc/?username=mousei0n)
 
 # ぺとらる (@mousei0n)
 
