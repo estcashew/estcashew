@@ -1,18 +1,21 @@
 ![](https://komarev.com/ghpvc/?username=mousei0n)
 
-# ぺとらる (@mousei0n)
+## 😶 About Me
+- 🕶 I'm **ぺとらる** (Petrar, [pe̞to̞ɾaɾɯ] ), a Japanese Student 🇯🇵
+- ❤ I love listening to music and reading books
 
-## 😶 私について
-* プログラミングや競技クイズなど
-* 音楽を聴くことと本を読むことが好きです
+## 💻 Languages I can write
+[![Programming Languages](https://skillicons.dev/icons?i=html,css,js,go,dart)](https://skillicons.dev)
 
-## 💻 書けるもの
-[![Programming Languages](https://skillicons.dev/icons?i=html,css,go)](https://skillicons.dev)
+## 🫥 I'm currently learning
+[![Programming Languages](https://skillicons.dev/icons?i=ts,cpp,next,flutter)](https://skillicons.dev)
 
-## 🫥 書きたいもの・使いたいもの
-[![Programming Languages](https://skillicons.dev/icons?i=rust,ts,php,cpp,tauri,next)](https://skillicons.dev)
+## 🤝 Contact
+- **Fediverse**: [@mousei0n@fedibird.com](fedibird.com/@mousei0n)
+- **Bluesky**: [@mousei0n.f5.si](bsky.app/profile/mousei0n.f5.si)
+- **HP**: [mousei0n.f5.si](mousei0n.f5.si)
 
-## 🔥 データ
+## 🔥 Data
 [![GitHub Streak](https://streak-stats.demolab.com?user=mousei0n&theme=tokyonight)](https://git.io/streak-stats)
-  
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mousei0n&theme=tokyonight)
+![Github Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mousei0n&theme=tokyonight)
+
