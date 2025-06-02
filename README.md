@@ -12,7 +12,6 @@
 
 ## 🤝 Contact
 - **Fediverse**: [@mousei0n@fedibird.com](https://fedibird.com/@mousei0n)
-- **Bluesky**: [@mousei0n.f5.si](https://bsky.app/profile/mousei0n.f5.si)
 - **HP**: [mousei0n.f5.si](https://mousei0n.f5.si)
 
 ## 🔥 Data
