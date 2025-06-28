@@ -11,8 +11,7 @@
 [![Programming Languages](https://skillicons.dev/icons?i=ts,cpp,next,flutter)](https://skillicons.dev)
 
 ## 🤝 Contact
-- **Fediverse**: ([@mousei0n](https://x.com/intent/follow?screen_name=mousei0n))
-- **HP**: [mousei0n.f5.si](https://mousei0n.f5.si)
+- **Twitter (current X)**: ([@mousei0n](https://x.com/intent/follow?screen_name=mousei0n))
 
 ## 🔥 Data
 [![GitHub Streak](https://streak-stats.demolab.com?user=mousei0n&theme=tokyonight)](https://git.io/streak-stats)
