@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=mousei0n) [![wakatime](https://wakatime.com/badge/user/88f368a7-1674-4eeb-9281-09554d9f4670.svg)](https://wakatime.com/@88f368a7-1674-4eeb-9281-09554d9f4670)
+![](https://komarev.com/ghpvc/?username=mousei0n) 
 
 ## 😶 About Me
 - 🕶 I'm **Cashew**, a Japanese Student
