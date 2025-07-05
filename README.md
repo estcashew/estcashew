@@ -14,6 +14,6 @@
 - **Twitter (current X)**: ([@mousei0n](https://x.com/intent/follow?screen_name=mousei0n))
 
 ## 🔥 Data
-[![GitHub Streak](https://streak-stats.demolab.com?user=mousei0n&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mousei0n&theme=tokyonight&locale=ja)](https://git.io/streak-stats)
 ![Github Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mousei0n&theme=tokyonight)
 
